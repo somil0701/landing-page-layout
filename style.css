@@ -57,7 +57,7 @@ header{
 }
 
 .hero-content{
-    width: 19vw;
+    width: 25vw;
 }
 
 .hero-heading{
@@ -83,8 +83,8 @@ header{
 }
 
 .hero-image{
-    height: 300px;
-    width: auto;
+    height: auto;
+    width: 420px;
 }
 
 /* random information section */
